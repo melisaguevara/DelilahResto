@@ -8,15 +8,16 @@ API desde tu propia máquina.
 
 En la carpeta encontrarás __ archivos. 
 
-- Queries base de datos: Posee los queries para que puedas crear la estructura de las tablas 
+-Queries base de datos: Posee los queries para que puedas crear la estructura de las tablas 
 requeridas para el funcionamiento de la api. Una vez ejecutados, en tu motor de base de datos deberías tener
 una nueva base de datos llamada delilah, con 4 tablas: usuarios, productos, pedidos y pedidos_productos. La tabla usuarios 
 debería tener un registro, que será el que usarás para las funcionalidades de administrador. Las otras 3 estarán vacías.
 
-- 
-serverdelilah.js: es el archivo de la api. 
-- package.json: es el archivo que contiene la información de los módulos que deberás importar para poder usar la api
+-serverdelilah.js: es el archivo de la api. 
+
+-package.json: es el archivo que contiene la información de los módulos que deberás importar para poder usar la api
 correctamente.
+
 -documentación.yaml y documentación.html: Son los archivos en los que encuentras las instrucciones de cómo usar cada uno
 de los endpoints correctamente. Los parámetros que espera recibir y lo que obtendrás como respuesta de cada uno de ellos. 
 
