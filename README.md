@@ -30,8 +30,8 @@ en la que se encuentra el archivo.
 tu compu. (Asegurate de tener node instalado)
 
 3. El siguiente paso es configurar la base de datos para conectarlo con nuestro proyecto. Para eso en la línea número
-12 del archivo serverdelilah, reemplaza en ("mysql://root:@localhost:3306/delilah") reemplaza el segmento "root:" por tu 
-usuario y contraseña en la base de datos de la siguiente manera --> usuario:contraseña
+12 del archivo serverdelilah, reemplaza en ("mysql://root:@localhost:3306/delilah") el segmento "root:" por tu 
+usuario y contraseña de la base de datos de la siguiente manera --> usuario:contraseña
 
 4. Y ahora sólo falta ejecutar el archivo y ya estás listo para usar la api desde el puerto 3000 de tu computadora,
 para empezar a usar la api podés crear un nuevo usuario desde el endpoint post usuarios y para probar las funcionalidades
