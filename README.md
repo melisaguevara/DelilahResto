@@ -6,7 +6,7 @@ Bienvenido/a a la API de Delilah Restó.
 A continuación te explicaremos los pasos para inicializar el servidor y la base de datos para poder interactuar con la 
 API desde tu propia máquina. 
 
-En la carpeta encontrarás __ archivos. 
+En la carpeta encontrarás 5 archivos. 
 
 -Queries base de datos: Posee los queries para que puedas crear la estructura de las tablas 
 requeridas para el funcionamiento de la api. Una vez ejecutados, en tu motor de base de datos deberías tener
