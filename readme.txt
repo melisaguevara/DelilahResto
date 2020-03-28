@@ -14,7 +14,7 @@ debería tener un registro, que será el que usarás para las funcionalidades de
 serverdelilah.js: es el archivo de la api. 
 - package.json: es el archivo que contiene la información de los módulos que deberás importar para poder usar la api
 correctamente.
--documentación.yaml y documentación.html: Son los archivos en los que encuentras las instrucciones de cómo usar cada uno
+-openapi.yaml y documentación.html: Son los archivos en los que encuentras las instrucciones de cómo usar cada uno
 de los endpoints correctamente. Los parámetros que espera recibir y lo que obtendrás como respuesta de cada uno de ellos. 
 
 Ahora veremos como inicializar la API.
